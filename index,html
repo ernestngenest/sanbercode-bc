@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sSanbercode</title>
+    <h1><b>Sanberbook</b></h1>
+</head>
+<body>
+    <h3>social media developer santai berkualitas</h3>  
+    <h4>Belajar dan berbagi agar hidup ini santai berkualitas</h4>
+    <div>
+        <h4><b>benefit dari sanbercode</b></h4>
+            <ul>
+                <li>mendapatkan motivasi sesama developer</li>
+                <li>Sharing knowledge dari para masalah sanber</li> 
+                <li>Dibuat oleh calon web developer terbaik</li>
+           </ul>
+    </div>
+    <div>
+        <h4>Cara bergabung ke sanberbook</h4>
+        <ol>
+            <li>mengunjungi Website ini</li>
+            <li>mendaftar di <a href="form.html">form sign up</a></li>
+            <li>selesai!</li>
+        </ol>
+    </div>
+</body>
+</html>
